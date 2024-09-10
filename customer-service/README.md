@@ -1,2 +1,2 @@
-# product-service
- repository for product service
+# customer-service
+ repository for customer service
